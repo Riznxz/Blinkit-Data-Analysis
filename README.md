@@ -13,14 +13,6 @@ This project performs data analysis on product listings from **Blinkit** (former
 
 ---
 
-## 📂 Dataset
-
-- Source: [Add your data source or say "Publicly available Blinkit dataset"]
-- Format: `.csv`
-- Fields include: Product Name, Price, Category, Rating, Discount, Brand, etc.
-
----
-
 ## 🔧 Tools & Technologies
 
 - **Python**
